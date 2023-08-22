@@ -1,0 +1,44 @@
+[submodule "lib_xua"]
+	path = lib_xua
+	url = https://github.com/xmos/lib_xua
+	branch = master
+[submodule "lib_xud"]
+	path = lib_xud
+	url = https://github.com/xmos/lib_xud
+	branch = master
+[submodule "lib_i2c"]
+	path = lib_i2c
+	url = https://github.com/xmos/lib_i2c
+	branch = master
+[submodule "lib_i2s"]
+	path = lib_i2s
+	url = https://github.com/xmos/lib_i2s
+	branch = master
+[submodule "lib_mic_array"]
+	path = lib_mic_array
+	url = https://github.com/xmos/lib_mic_array
+	branch = master
+[submodule "lib_adat"]
+	path = lib_adat
+	url = https://github.com/xmos/lib_adat
+	branch = master
+[submodule "lib_dsp"]
+	path = lib_dsp
+	url = https://github.com/xmos/lib_dsp
+	branch = master
+[submodule "lib_locks"]
+	path = lib_locks
+	url = https://github.com/xmos/lib_locks
+	branch = master
+[submodule "lib_logging"]
+	path = lib_logging
+	url = https://github.com/xmos/lib_logging
+	branch = master
+[submodule "lib_spdif"]
+	path = lib_spdif
+	url = https://github.com/xmos/lib_spdif
+	branch = master
+[submodule "lib_xassert"]
+	path = lib_xassert
+	url = https://github.com/xmos/lib_xassert
+	branch = master
